@@ -11,5 +11,12 @@ A plataforma busca possibilitar que esses pequenos empreendedores ganhem espaço
 
 ---
 
-## Objetivos
-O principal objetivo deste projeto é facilitar o contato entre os dois lados do mercado, onde de um lado há consumidores que buscam serviços ou produtos personalizados e frequentemente encontram dificuldade em localizá-los, enquanto do outro há profissionais autônomos que por trabalharem de forma independente, enfrentam obstáculos para ganhar visibilidade e transformar sua atividade em uma fonte de renda estável.
+## Objetivo
+O principal objetivo deste projeto é facilitar o contato entre os dois lados do mercado, onde de um lado há consumidores que buscam serviços ou produtos personalizados e frequentemente encontram dificuldade em localizá-los, enquanto do outro há profissionais autônomos que por trabalharem de forma independente, enfrentam obstáculos para ganhar visibilidade e transformar sua atividade em uma fonte de renda estável. 
+
+---
+
+## Planos futuros 
+Dependendo da recepção do projeto ele futuramente pode vir a se tornar uma forma de credibilizar seu trabalho com a adição de métodos de avaliação, dependendo poder ser considerado um portifólio profissional 
+
+---
