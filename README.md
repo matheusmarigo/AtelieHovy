@@ -9,4 +9,7 @@ Este projeto tem como objetivo criar uma **plataforma de divulgação de produto
 
 A plataforma busca possibilitar que esses pequenos empreendedores ganhem espaço no mercado sem ter que competir com grandes empresas ou produtos falsificados produzidos em massa
 
+---
 
+## Objetivos
+O principal objetivo deste projeto é facilitar o contato entre os dois lados do mercado, onde de um lado há consumidores que buscam serviços ou produtos personalizados e frequentemente encontram dificuldade em localizá-los, enquanto do outro há profissionais autônomos que por trabalharem de forma independente, enfrentam obstáculos para ganhar visibilidade e transformar sua atividade em uma fonte de renda estável.
