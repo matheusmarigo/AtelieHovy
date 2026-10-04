@@ -17,5 +17,7 @@ O principal objetivo deste projeto é facilitar o contato entre os dois lados do
 ---
 
 ## Planos futuros 
-Dependendo da recepção do projeto, futuramente ele poderá se consolidar como um meio de conferir credibilidade ao trabalho dos profissionais, por meio da implementação de mecanismos de avaliação e, eventualmente, passando a ser reconhecido como um portfólio profissional.
+Dependendo da recepção do projeto, futuramente ele poderá se consolidar como um meio de credibilizar o trabalho de profissionais, por meio da implementação de mecanismos de avaliação e futuramente podendo ser reconhecido até como um portifólio profissional.
+
 ---
+
