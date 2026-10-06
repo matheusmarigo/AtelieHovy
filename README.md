@@ -24,6 +24,9 @@ O principal objetivo deste projeto é facilitar o contato entre os dois lados do
 ![diagrama1](https://github.com/matheusmarigo/AtelieHovy/blob/main/Imagens/Diagrama%20Hovy.png?raw=true)
 
 ---
+## Ideias de interface
+![ideiainterface1](https://github.com/matheusmarigo/AtelieHovy/blob/d3c04977be0e554bf34ca61bce0e2354dc136046/Imagens/Ideia%20de%20interface.png)
+---
 ## Planos futuros 
 Dependendo da recepção do projeto, ele pode vir a se consolidar como um meio de credibilizar o trabalho de profissionais, por meio da implementação de mecanismos de avaliação e futuramente podendo ser reconhecido até como um portifólio profissional.
 
