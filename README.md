@@ -42,16 +42,12 @@ Especificar o que pode e o que não pode ser comercializado dentro do Ateliê Ho
 
 **✓** - Produtos de autoria própria, fanmade, serviços de concerto, ilustrações, acessórios, etc...
 
-### 1. Personalizar perfil de negócios 
+### 2. Personalizar perfil de negócios 
 Anexar links de outras redes usadas para contato (fontes confiáveis)
 
 Permitir exibir imagens de produtos e serviços
 
 Permitir a alteração de cores, fonte e grades de seus perfis para tornar cada perfil único e chamar atenção
-
-### 2. 
-
-
 
 ---
 
