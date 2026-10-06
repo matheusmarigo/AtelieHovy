@@ -17,8 +17,7 @@ O principal objetivo deste projeto é facilitar o contato entre os dois lados do
 ---
 
 ## Funcionamento
-
-## Clientes
+## Uso cotidiano
 
 ### 1. Criar conta
 **Autenticação segura:** Cadastro e login via OAuth (Google,apple,etc).
@@ -28,6 +27,27 @@ Enviar um questionário para entender as preferencias e interesses do usuário e
 
 ### 3. Salvar perfis
 Adicionar a opção de seguir perfis, para ser notificado quando eles estão com vagas livres para pedidos ou promoções
+
+### 4. Nichos
+Separação de serviços entre nichos **(Desenhos e Pinturas)**, **(Roupas e Assessórios)**, **(Edição de vídeo e imagens)**
+
+## Uso Profissional
+
+### 0. Funções anteriores
+
+### 1. Regras de venda
+Especificar o que pode e o que não pode ser comercializado dentro do Ateliê Hovy
+
+**🛇** - Cursos, conteúdo sexual, conteúdo gráfico, Produtos falsificados, revendas, grandes empresas, etc...
+
+**✓** - Produtos de autoria própria, fanmade, serviços de concerto, ilustrações, acessórios, etc...
+
+### 1. Personalizar perfil de negócios 
+Anexar links de outras redes usadas para contato (fontes confiáveis)
+Permitir exibir imagens de produtos e serviços
+Alterar cores e fonte de seus perfis para tornar cada perfil unico e chamar ante
+
+
 
 ---
 
