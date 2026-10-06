@@ -16,6 +16,9 @@ O principal objetivo deste projeto é facilitar o contato entre os dois lados do
 
 ---
 
+## Funcionamento
+
+![diagrama1]Imagens/Diagrama Hovy.png
 ## Planos futuros 
 Dependendo da recepção do projeto, ele pode vir a se consolidar como um meio de credibilizar o trabalho de profissionais, por meio da implementação de mecanismos de avaliação e futuramente podendo ser reconhecido até como um portifólio profissional.
 
