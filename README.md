@@ -57,12 +57,15 @@ Permitir a alteração de cores, fonte e grades de seus perfis para tornar cada 
 
 ## Diagrama de funcionamento
 Ideia de funcionamento do programa 
+
 ![diagrama1](https://github.com/matheusmarigo/AtelieHovy/blob/main/Imagens/Diagrama%20Hovy.png?raw=true)
 
 ---
 ## Ideias de interface
 Tela inicial
+
 ![ideiainterface1](https://github.com/matheusmarigo/AtelieHovy/blob/d3c04977be0e554bf34ca61bce0e2354dc136046/Imagens/Ideia%20de%20interface.png)
+
 ---
 
 
