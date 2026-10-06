@@ -58,9 +58,13 @@ Ideia de funcionamento do programa
 
 ---
 ## Ideias de interface
-Tela inicial
+
+### Tela inicial
 
 ![ideiainterface1](https://github.com/matheusmarigo/AtelieHovy/blob/d3c04977be0e554bf34ca61bce0e2354dc136046/Imagens/Ideia%20de%20interface.png)
+
+### Perfil profissional 
+![ideiainterface2](https://github.com/matheusvdsm/AtelieHovy/blob/9ad28d58692db0ad5a83f736002468ae14a9eeb0/Imagens/ideia%20perfil.png)
 
 ---
 
