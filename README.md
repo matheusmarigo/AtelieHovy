@@ -18,6 +18,9 @@ O principal objetivo deste projeto é facilitar o contato entre os dois lados do
 
 ## Funcionamento
 
+---
+
+## Diagrama de funcionamento
 ![diagrama1](https://github.com/matheusmarigo/AtelieHovy/blob/main/Imagens/Diagrama%20Hovy.png?raw=true)
 
 ---
