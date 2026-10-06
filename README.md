@@ -44,8 +44,12 @@ Especificar o que pode e o que não pode ser comercializado dentro do Ateliê Ho
 
 ### 1. Personalizar perfil de negócios 
 Anexar links de outras redes usadas para contato (fontes confiáveis)
+
 Permitir exibir imagens de produtos e serviços
-Alterar cores e fonte de seus perfis para tornar cada perfil unico e chamar ante
+
+Permitir a alteração de cores, fonte e grades de seus perfis para tornar cada perfil único e chamar atenção
+
+### 2. 
 
 
 
